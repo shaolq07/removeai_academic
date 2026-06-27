@@ -12,7 +12,7 @@ Human academic writing is not chatty. It usually has:
 - Texture from concepts and examples, not from decorative adjectives.
 - Paragraphs with jobs: introduce a problem, narrow a concept, compare positions, read evidence, handle objection, or state implication.
 
-## Learn from philosophers and literary writers without copying them
+## Learn from philosophers without copying them
 
 Extract arrangement patterns:
 
@@ -23,7 +23,7 @@ Extract arrangement patterns:
 - **Paragraph turn**: make the last sentence change the reader's angle rather than merely summarize.
 - **Sentence weight variation**: place dense conceptual sentences beside shorter clarifying sentences.
 
-Do not produce decorative imitation such as archaic diction, famous-author cadence, or signature metaphors. The goal is intellectual arrangement, not cosplay.
+Do not produce decorative imitation such as archaic diction, famous-author cadence, or signature metaphors. The goal is intellectual arrangement, not cosplay. When academic prose also needs essayistic or literary force, load `literary-writing.md` and borrow rhythm, scene, perspective, silence, and sensory detail only where they clarify the thought.
 
 ## Revision procedure
 

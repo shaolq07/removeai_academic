@@ -13,6 +13,15 @@ Real copy is not a pile of hooks, emojis, and pain points. It is writing that kn
 
 Good copy often sounds like someone with taste and firsthand contact, not a template optimized for every platform at once.
 
+Use copywriter craft here, not literary craft. The goal is not beautiful prose for its own sake; the goal is a trustworthy path from reader situation to useful action.
+
+## Copywriter craft
+
+- **Real scene**: Name the moment where the reader meets the problem: before buying, after failing, while comparing, before a deadline, after opening an app, standing in a store, preparing a trip.
+- **Reader psychology**: Identify what the reader wants and what blocks them: fear of wasting money, embarrassment, uncertainty, fatigue, status pressure, decision overload, lack of vocabulary.
+- **Constraint expression**: State limits plainly. Say who this is not for, what it cannot solve, what tradeoff exists, and what condition changes the recommendation.
+- **Action entry**: Give the next move: save, compare, try one step, ask one question, check one parameter, avoid one mistake, comment with a detail, or buy only under a condition.
+
 ## Diagnose fake copy
 
 Look for:
@@ -29,10 +38,11 @@ Look for:
 
 1. Identify the real reader: student, researcher, buyer, colleague, friend, parent, patient, beginner, expert, local resident, etc.
 2. Identify the real scene: before a deadline, in a store, after trying a product, during revision, commuting, cooking, recovering, planning.
-3. Replace generic hook with a scene, tension, or honest claim.
-4. Keep only claims that can be supported by the text.
-5. Use details that change the reader's picture: time, object, hesitation, small failure, comparison, price, location, material, process.
-6. End with a practical next step, a remembered detail, or a quiet conclusion. Do not force a slogan.
+3. Identify the reader's psychology: what they fear, desire, misunderstand, or postpone.
+4. Replace generic hook with a scene, tension, or honest claim.
+5. Keep only claims that can be supported by the text.
+6. Add constraints: price, time, suitability, failure condition, who should skip it, what remains uncertain.
+7. End with an action entry. Do not force a slogan.
 
 ## Xiaohongshu and social post patterns
 
@@ -43,6 +53,7 @@ Use the platform's rhythm only when appropriate:
 - Tags should describe real categories, not spam.
 - First-person experience is valuable only if true. If experience is unavailable, write as observation, guide, or analysis.
 - Keep one main promise per post.
+- A useful limitation often increases trust more than another compliment.
 
 ## Before and after examples
 
@@ -68,6 +79,12 @@ Use the platform's rhythm only when appropriate:
 
 ```text
 我会把它放在办公桌左手边，因为单手能打开，杯口也不容易溅水。它不算轻，通勤背很久会有点存在感；但如果主要在办公室用，这个重量反而稳。
+```
+
+### Copywriter version with action entry
+
+```text
+如果你主要在办公室喝水，可以看两个点：能不能单手开、放在桌边稳不稳。这个杯子胜在稳，缺点是有重量；每天背通勤包的人不一定合适。线下试的时候，先装半杯水拎一下，比看颜值图更准。
 ```
 
 ## Grounding options when details are missing

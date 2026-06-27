@@ -1,6 +1,6 @@
 ---
 name: removeai-academic
-description: Humanize Chinese academic writing, research collaboration text, essays, reports, proposals, social posts, Xiaohongshu-style copy, marketing copy, and everyday life-oriented prose. Use when the user asks to remove AI flavor, make writing sound natural, less robotic, less templated, more human, more grounded, more scholarly, more literary, more persuasive, or more suitable for real readers.
+description: Humanize Chinese academic writing, research collaboration text, essays, reports, proposals, literary essays, social posts, Xiaohongshu-style copy, marketing copy, and everyday life-oriented prose. Use when the user asks to remove AI flavor, make writing sound natural, less robotic, less templated, more human, more grounded, more scholarly, more literary, more persuasive, or more suitable for real readers; distinguishes literary writing craft from copywriting craft.
 ---
 
 # Removeai Academic
@@ -21,6 +21,7 @@ Treat "AI flavor" as a cluster of habits: over-balanced structure, inflated tran
 3. Choose references when needed:
    - For all tasks, use [common-checklist.md](references/common-checklist.md).
    - For papers, abstracts, proposals, literature reviews, research emails, or academic collaboration, use [academic-writing.md](references/academic-writing.md).
+   - For essays, speeches, reflective writing, prefaces, narrative passages, or academic prose that needs literary force, use [literary-writing.md](references/literary-writing.md).
    - For Xiaohongshu, product copy, captions, brand posts, short videos, newsletters, or practical life-facing prose, use [real-life-copy.md](references/real-life-copy.md).
 4. Revise structure before wording: order, stance, paragraph function, evidence, and reader path come first.
 5. Then revise local language: remove filler transitions, vary sentence rhythm, lower false certainty, replace hollow abstractions with precise claims.
@@ -66,8 +67,8 @@ Keep the note short unless the user asks for detailed explanation.
 
 ## Guardrails
 
-- Do not imitate a living author's exact style or produce a disguised pastiche. Learn transferable moves: cadence, argumentative sequencing, concreteness, hesitation, image placement, and paragraph pressure.
-- For philosophers, theorists, and literary writers, abstract their craft into structural principles instead of copying signature phrasing.
+- Do not imitate a living author's exact style or produce a disguised pastiche. Learn transferable moves: cadence, argumentative sequencing, concreteness, hesitation, image placement, perspective control, and paragraph pressure.
+- Keep literary craft and copywriting craft separate. Literary craft is for rhythm, scene, perspective, silence, sensory detail, and inward pressure; copywriting craft is for real reader scenes, psychology, constraint, and action entry.
 - Do not make academic prose casual by default. Good scholarly writing can be precise, plain, and alive at the same time.
 - Do not make social copy loud by default. Real copy often has restraint, specific context, and a reader who recognizes themselves without being manipulated.
 - If the source text lacks enough real detail for a grounded rewrite, say what detail is missing and offer a conservative version that does not fabricate.
