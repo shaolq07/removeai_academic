@@ -1,0 +1,7 @@
+interface:
+  display_name: "去AI味学术协作"
+  short_description: "把学术写作、协作文本和生活文案改得更像真人"
+  default_prompt: "Use $removeai-academic to revise this academic paragraph or social copy so it reads natural, situated, and human."
+
+policy:
+  allow_implicit_invocation: true
